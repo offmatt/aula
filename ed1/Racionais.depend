@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693943711 source:c:\users\aluno\desktop\hj\questao1\racionais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"header.h"
+
+1693943783 c:\users\aluno\desktop\hj\questao1\racionais\header.h
+
